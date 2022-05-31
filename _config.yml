@@ -9,20 +9,20 @@ google_analytics_key:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Photography portfolio site of my works by Borisov Vadim.
-author: Borisov Vadim 
-name: Vadim
-email: veaxman@gmail.com
+description: Photography portfolio site of my works by Albert Farrales.
+author: Albert Farrales
+name: Albert
+email: atfarrales@gmail.com
 twitter: borisseauve
 # Custom vars
 socials_links:
-- url: https://github.com/veax
+- url: https://github.com/
   class: fab fa-github
-- url: https://www.facebook.com/profile.php?id=100001788716921
+- url: https://www.facebook.com/
   class: fab fa-facebook-square
-- url: https://vk.com/id151991161
+- url: https://vk.com/
   class: fab fa-vk
-- url: https://www.instagram.com/veax/
+- url: https://www.instagram.com/
   class: fab fa-instagram
 
 # -----
